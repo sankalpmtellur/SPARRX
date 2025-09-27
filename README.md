@@ -1,4 +1,4 @@
-# CampusQuest
+# SPARRX
 
 **CampusQuest** is a 3D campus exploration and mystery-solving game built with Unity. Players navigate a virtual campus, interact with objects and NPCs, solve puzzles, and unlock new rooms and levels as they progress through the game.
 
@@ -52,7 +52,7 @@ CampusQuest/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CampusQuest.git
+   git clone https://github.com/sankalpmtellur/SPARRX.git
    ```
 2. Open the project in **Unity 2023**  
 3. Open any scene from the `Scenes/` folder  
