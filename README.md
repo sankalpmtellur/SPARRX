@@ -1,6 +1,6 @@
 # SPARRX
 
-**CampusQuest** is a 3D campus exploration and mystery-solving game built with Unity. Players navigate a virtual campus, interact with objects and NPCs, solve puzzles, and unlock new rooms and levels as they progress through the game.
+**Nstries** is a 3D campus exploration and mystery-solving game built with Unity. Players navigate a virtual campus, interact with objects and NPCs, solve puzzles, and unlock new rooms and levels as they progress through the game.
 
 ---
 
@@ -39,7 +39,7 @@ PROTOTYPE DEMO: https://drive.google.com/drive/folders/1u2uItpO-K5GTjopQYXMKFedJ
 ## �� Project Structure
 
 ```
-CampusQuest/
+Nstries/
 ├── Assets/               # Unity assets including 3D models, textures, animations, prefabs
 │   ├── Materials/        # Materials and shaders
 │   ├── Models/           # 3D models for campus, objects, and characters
