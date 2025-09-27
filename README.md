@@ -10,6 +10,8 @@ CODES FILES: https://drive.google.com/drive/folders/1tMAg8ZFVCFAWo9UOh1FeHn91tXl
 
 PROTOTYPE DEMO: https://drive.google.com/drive/folders/1u2uItpO-K5GTjopQYXMKFedJy57m4ELs?usp=sharing
 
+(WE HAD PUT THE FULL GAME CODE WITH ALL THE FILES TO THE DRIVE BECAUSE THE FILE SIZE WAS TOO LARGE AND IT WAS NOT ACCEPTING MORE THAN 100MB)
+
 ## �� Gameplay
 
 - Explore a fully 3D campus environment  
