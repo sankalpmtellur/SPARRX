@@ -10,6 +10,8 @@ CODES FILES: https://drive.google.com/drive/folders/1tMAg8ZFVCFAWo9UOh1FeHn91tXl
 
 PROTOTYPE DEMO: https://drive.google.com/drive/folders/1u2uItpO-K5GTjopQYXMKFedJy57m4ELs?usp=sharing
 
+Game DEMO: https://7976ritesh.itch.io/nstries
+
 (WE HAD PUT THE FULL GAME CODE WITH ALL THE FILES TO THE DRIVE BECAUSE THE FILE SIZE WAS TOO LARGE AND IT WAS NOT ACCEPTING MORE THAN 100MB)
 
 ## �� Gameplay
